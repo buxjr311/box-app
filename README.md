@@ -1,9 +1,9 @@
 <p align="center">
-  <!-- <img src="https://box.buxjr.com/img/logo.svg" alt="Box" width="80"> -->
-  <h1 align="center">Box</h1>
-  <p align="center"><strong>Your email belongs to you.</strong></p>
-  <p align="center">A beautiful desktop email client for Linux, built on privacy, speed, and respect for your data.</p>
+  <img src="icon.png" alt="Box" width="100">
 </p>
+<h1 align="center">Box</h1>
+<p align="center"><strong>Your email belongs to you.</strong></p>
+<p align="center">A beautiful desktop email client for Linux, built on privacy, speed, and respect for your data.</p>
 
 <p align="center">
   <a href="https://box.buxjr.com/download">Download</a> &nbsp;&bull;&nbsp;
